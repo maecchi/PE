@@ -55,7 +55,6 @@ def generatePrimeFactors():
 			elif a[k] > 1: # 1でない場合は素数が残っているので素因数分解リストに格納
 				b[k].append((a[k],1))
 
-		print a
 		for f in b:
 			yield f
 

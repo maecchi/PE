@@ -3,7 +3,7 @@
 #
 # pe067.py - Project Euler
 #
-# pe017.pyで使用した手法を利用する
+# pe018.pyで使用した手法を利用する
 
 triangle_elements = []
 

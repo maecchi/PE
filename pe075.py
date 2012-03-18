@@ -5,7 +5,7 @@
 #
 # ピタゴラス数を使用する
 # 3辺をa,b,cとするとき
-# a = 2lmn, b = l(m^2 - n^2), c = l(m^2 + c^2)
+# a = 2lmn, b = l(m^2 - n^2), c = l(m^2 + n^2)
 # と表すことができる（m,nは整数 m > n, m+n は奇数, mとnは互いに素)
 from fractions import gcd
 from itertools import imap
